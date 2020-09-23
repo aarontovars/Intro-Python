@@ -172,10 +172,37 @@ for elt in f:
   instructions
 ```
 
-## function
+## Function
 ```
 def function_name(<param1>, <param2>, ... , <paramn>):
   instructions
   
   return <n1>, <n2>, ... , <nn>
+```
+Example:
+```
+def per_ar_circle(d):
+  per = d * 3.14
+  area = 3.14 * d/2 * d/2
+  return per, area
+```
+call:
+```
+my_d = 12
+my_per, my_area = per_ar_circle(my_d)
+_ , my_area = per_ar_circle(my_d)
+my_per,  _ = per_ar_circle(my_d)
+```
+```
+def product(a, b, c = 100)>
+  return a * b * c
+```
+call:
+```
+res = product(1, 2, 3)
+print(res)
+>> 6
+res = product(1, 2)
+print(res)
+>> 200
 ```
