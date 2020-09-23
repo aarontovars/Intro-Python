@@ -8,5 +8,4 @@
 
 
 Python is an interpreted language. No compilation and linking step.
-<br/>
 Standalone software (C++), prototyping, Data Science, academic staff, wek DEV (Python).
