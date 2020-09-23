@@ -1,4 +1,4 @@
-#Exercise
+# Exercise
 Create a python code that:<br/>
 1. Get CSV file named "titanic.csv"<br/>
 2. Use pandas to open the file<br/>
