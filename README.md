@@ -15,5 +15,14 @@ Check PEP 8 (Style Guide for Python).
 
 ## Basic types
 
-###String
-
+######String
+Defining:
+```
+str1 = "Hello World"
+str2 = str("Hello World")
+str3 = str(3) %Conversion
+```
+Printing:
+```
+print(str1)
+```
