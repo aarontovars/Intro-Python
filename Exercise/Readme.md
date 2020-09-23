@@ -5,5 +5,6 @@ Create a python code that:<br/>
 3. Remove line with NaN in Age column<br/>
 4. Compute average Age<br/>
 5. Display histogram of age (matplotlib)<br/>
+
 Bonus:<br/>
 Compute correlation between age and death.
