@@ -4,5 +4,5 @@
 * numpy (Maths)
 * scikit-form (ML)
 * scikit-image (Image Processing)
-* pandas (Data Manipulation)<br/>
+* pandas (Data Manipulation)<br/><br/>
 Python is an interpreted language. No compilation and linking step.
