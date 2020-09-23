@@ -193,6 +193,7 @@ my_per, my_area = per_ar_circle(my_d)
 _ , my_area = per_ar_circle(my_d)
 my_per,  _ = per_ar_circle(my_d)
 ```
+Example:
 ```
 def product(a, b, c = 100)>
   return a * b * c
