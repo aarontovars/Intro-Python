@@ -1,6 +1,6 @@
 # Intro-Python
 
-matplotlib (Figures)
+matplotlib (Figures) \\
 numpy (Maths)
 scikit-form (ML)
 scikit-image (Image Processing)
